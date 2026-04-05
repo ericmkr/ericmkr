@@ -4,8 +4,8 @@
 💼 Web Designer at ORBIT<br/>
 💼 Front-end Developer at ORBIT<br/>
 💼 Quality Assurance at ORBIT<br/>
-💼 Manager at ORBIT<br/>
-💼 Investor at ORBIT<br/>
+<!-- 💼 Manager at ORBIT<br/>
+💼 Investor at ORBIT<br/> -->
 ✍️ I create visuals and websites to stay consistent<br/>
 📑Some projects we're working on : Mercuriale, Stratagème, Echosys, Apcar, iCare<br/>
 🔭 My personal projects : $MKR Blockchain, MarKetRoot, Eden Market, FlowTrack, Essence, mkr.ai<br/>
