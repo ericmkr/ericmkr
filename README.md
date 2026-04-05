@@ -1,4 +1,4 @@
-### Hi, I'm Victor Eric MOUKOURI
+### Hi, I'm Victor Eric MOUKOURI 👨‍💻
 
 💼 Graphic Designer at ORBIT<br/>
 💼 Web Designer at ORBIT<br/>
